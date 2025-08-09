@@ -4,4 +4,4 @@
 
 ## v0.1.0 (09/08/2025)
 
-- First release of `my_krml_255887256`!
+- First release of `my_krml_25588726`!

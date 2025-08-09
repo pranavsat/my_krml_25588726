@@ -40,18 +40,18 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `my_krml_255887256` for local development.
+Ready to contribute? Here's how to set up `my_krml_25588726` for local development.
 
-1. Download a copy of `my_krml_255887256` locally.
+1. Download a copy of `my_krml_25588726` locally.
 
-2. Create and activate a conda environment for `my_krml_255887256`:
+2. Create and activate a conda environment for `my_krml_25588726`:
 
     ```console
-    $ conda create -n my_krml_255887256 python=3.12
-    $ conda activate my_krml_255887256
+    $ conda create -n my_krml_25588726 python=3.12
+    $ conda activate my_krml_25588726
     ```
 
-3. Install `my_krml_255887256` using `poetry`:
+3. Install `my_krml_25588726` using `poetry`:
 
     ```console
     $ poetry install
@@ -77,5 +77,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `my_krml_255887256` project is released with a
+Please note that the `my_krml_25588726` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

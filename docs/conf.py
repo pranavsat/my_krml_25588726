@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"my_krml_255887256"
+project = u"my_krml_25588726"
 copyright = u"2025, Pranav Sathyababu"
 author = u"Pranav Sathyababu"
 

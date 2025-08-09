@@ -1,11 +1,11 @@
-# my_krml_255887256
+# my_krml_25588726
 
 A package for doing great things!
 
 ## Installation
 
 ```bash
-$ pip install my_krml_255887256
+$ pip install my_krml_25588726
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`my_krml_255887256` was created by Pranav Sathyababu. It is licensed under the terms of the MIT license.
+`my_krml_25588726` was created by Pranav Sathyababu. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`my_krml_255887256` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`my_krml_25588726` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
